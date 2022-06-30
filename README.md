@@ -1,6 +1,6 @@
 # 💡 Atividade  acadêmica – os dados na programação
 
-## 🎯 A porposta era que por via processamento de textos, extrair isoladamente (cada dado em uma variável) as seguintes informações: 
+## 🎯 A prorposta era que, por via processamento de textos, extrair isoladamente (cada dado em uma variável) as seguintes informações: 
 O nome das cidades avaliadas.
 O conteúdo do roteiro A de cada cidade avaliada.
 Quantos locais são citados no roteiro A de cada cidade.
